@@ -1,2 +1,2 @@
-# Parody-Person-Informat-on-Project
+# Parody-Person-Information-Project
 My First Project
